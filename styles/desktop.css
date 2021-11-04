@@ -15,6 +15,12 @@ a:hover {
   color: #fff;
   text-decoration: none;
 }
+label {
+  display: inline-block;
+  width: 120px;
+  vertical-align: top;
+  flex-basis: 120px;
+}
 #container {
   margin: auto;
   max-width: 1200px;
